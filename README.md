@@ -4,7 +4,8 @@ Musthafa Ahmad Maulana | 2409116027 | Management Data Pengunjung
 
 **Flowchart**
 
-![Minpro 2 drawio (1)](https://github.com/user-attachments/assets/41f6cece-89a9-4587-aa04-0f021fcc6e5d)
+![Minpro 2 drawio (2)](https://github.com/user-attachments/assets/722d402f-fcdd-4256-95db-f7894dffe076)
+
 
 
 #**Login sebagai Admin**
